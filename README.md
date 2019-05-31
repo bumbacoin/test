@@ -8,7 +8,7 @@ Visit our ANN thread at [BitcoinTalk](https://bitcointalk.org/index.php?topic=15
 
 ### Coin Specs
 <table>
-<tr><td>Algo</td><td>Quark</td></tr>
+<tr><th>Algo</th><td>Quark</td></tr>
 <tr><td>Block Time</td><td>60 Seconds</td></tr>
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
 <tr><td>Min Stake Age</td><td>24 hours</td></tr>
