@@ -3,7 +3,8 @@ EXCL Core integration/staging repository
 
 EXCL is an open source crypto-currency
 
-More information at [exclusivecoin.pw](https://exclusivecoin.pw/) Visit our ANN thread at [BitcoinTalk](https://bitcointalk.org/index.php?topic=1546005)
+More information at [exclusivecoin.pw](https://exclusivecoin.pw/)
+Visit our ANN thread at [BitcoinTalk](https://bitcointalk.org/index.php?topic=1546005)
 
 ### Coin Specs
 <table>
