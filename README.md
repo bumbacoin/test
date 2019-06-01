@@ -14,17 +14,12 @@ Visit our ANN thread at [BitcoinTalk](https://bitcointalk.org/index.php?topic=15
 <tr><th>Min Stake Age</th><td>24 hours</td></tr>
 <tr><th>Port</th><td> -- </td></tr>
 <tr><th>RPCPort</th><td> -- </td></tr>
-
+<tr><th>Min Stake Age</th><td>1 hour</td></tr>
 </table>
 
-### POS Specs
 <table>
-<th>Min Stake Age</th><th>Max Stake Age</th>
-<tr><td>24 hours</td><td>30 days</td></tr>
-</table>
-<table>
-<th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes</th><th>Stakers</th>
-<tr><td>Phase 0</td><td> -- </td><td> -- </td><td>50% (0.5 EXCL)</td><td>50% (0.5 EXCL)</td></tr>
+<tr><th>Reward</th><th>Masternodes</th><th>Stakers</th></tr>
+<tr><td>1 EXCL</td><td>50% (0.5 EXCL)</td><td>50% (0.5 EXCL)</td></tr>
 </table>
 
 
