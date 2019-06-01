@@ -11,10 +11,9 @@ Visit our ANN thread at [BitcoinTalk](https://bitcointalk.org/index.php?topic=15
 <tr><th>Algo</th><td>Quark</td></tr>
 <tr><th>Block Time</th><td>60 Seconds</td></tr>
 <tr><th>Difficulty Retargeting</th><td>Every Block</td></tr>
-<tr><th>Min Stake Age</th><td>24 hours</td></tr>
-<tr><th>Port</th><td> -- </td></tr>
-<tr><th>RPCPort</th><td> -- </td></tr>
 <tr><th>Min Stake Age</th><td>1 hour</td></tr>
+<tr><th>Port</th><td>23230</td></tr>
+<tr><th>RPCPort</th><td> -- </td></tr>
 </table>
 
 <table>
