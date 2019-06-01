@@ -13,7 +13,7 @@ Visit our ANN thread at [BitcoinTalk](https://bitcointalk.org/index.php?topic=15
 <tr><th>Difficulty Retargeting</th><td>Every Block</td></tr>
 <tr><th>Min Stake Age</th><td>1 hour</td></tr>
 <tr><th>Port</th><td>23230</td></tr>
-<tr><th>RPCPort</th><td> -- </td></tr>
+<tr><th>RPCPort</th><td>51473</td></tr>
 </table>
 
 <table>
